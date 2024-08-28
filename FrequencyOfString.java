@@ -1,6 +1,5 @@
 /*Java program to find the frequency of the repeating letters in a string
 * Name = Adhil-Bin-Nadeer
-*
 **/
 
 package oops;
