@@ -1,13 +1,13 @@
-//Experiment : Matrix Multiplication
+package oops;//Experiment : Matrix Multiplication
 //Adhil Bin Nadeer
 
 import java.util.Scanner;
 public class MatrixMultiplication {
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        int[][] a = new int[40][40];
-        int[][] b = new int[40][40];
-        int[][] c = new int[40][40];
+        int[][] a = new int[30][30];
+        int[][] b = new int[30][30];
+        int[][] c = new int[30][30];
         int i,j,k,r1,c1,r2,c2;
         do{
             System.out.println("Enter the order of first matrix: ");
