@@ -10,3 +10,4 @@
 6. [Find the Area of the Shapes - Using Method Overloading](MethodOverloading.java)
 7. [Check Whether the Number is Palindrome or Not](Palindrome.java)
 8. [Salary Calculation of Engineer and Employee (Single Level Heirarchy) - Using Constructor, super(keyword), OverRiding & Inheritence Concept](Super&Overloading.java)
+9. [Sum of Numbers](Sum.java)
