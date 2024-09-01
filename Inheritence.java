@@ -89,6 +89,6 @@ public class Inheritence
         System.out.println("\n\tMANAGER");
         System.out.println("Name : "+man.Name+"\nAdress : "+man.Address+"\nAge : "+man.Age+"\nPhone Number :"+man.phoneNumber+"\nDepartment : "+man.department);
         man.printSalary();
-        System.out.println(“==============Executed Successfully========================="); 
+        System.out.println("==============Executed Successfully=========================");
      }
 }
